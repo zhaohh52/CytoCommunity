@@ -1,7 +1,5 @@
 ![header](support/logo.png)   
 
-# Unsupervised and supervised discovery of tissue cellular neighborhoods from cell phenotypes with CytoCommunity
-
 ## Contents
 
 - [Overview](#overview)
@@ -12,15 +10,13 @@
 - [Contributing](#contributing)
 
 ## Overview
-
-<!-- ![overview](support/overview.png)  -->
-<div align=center><img src="https://github.com/huBioinfo/CytoCommunity/blob/main/support/overview.png" width="600" height="600" alt="pipline"/></div>
 It remains poorly understood how different cell phenotypes organize and coordinate with each other to support tissue functions. To better understand the structure-function relationship of a tissue, the concept of tissue cellular neighborhoods (TCNs) has been proposed. Furthermore, given a set of tissue images associated with different conditions, it is often desirable to identify condition-specific TCNs with more biological and clinical relevance. However, there is a lack of computational tools for de novo identification of condition-specific TCNs by explicitly utilizing tissue image labels. 
 
 We developed the CytoCommunity algorithm for identifying TCNs that can be applied in either an unsupervised or a supervised learning framework. The direct usage of cell phenotypes as initial features to learn TCNs makes it applicable to both single-cell transcriptomics and proteomics data, with the interpretation of TCN functions facilitated as well. Additionally, CytoCommunity can not only infer TCNs for individual images but also identify condition-specific TCNs for a set of images by leveraging graph pooling and image labels, which effectively addresses the challenge of TCN alignment across images.
 
 CytoCommunity is the first computational tool for end-to-end unsupervised and supervised analyses of single-cell spatial maps and enables direct discovery of conditional-specific cell-cell communication patterns across variable spatial scales.
-
+<!-- ![overview](support/overview.png)  -->
+<div align=center><img src="https://github.com/huBioinfo/CytoCommunity/blob/main/support/overview.png" width="600" height="600" alt="pipline"/></div>
 ## Installation
 
 ### Hardware requirement 
