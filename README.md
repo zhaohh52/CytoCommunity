@@ -28,10 +28,11 @@ Python version: 3.10.6
 R version: >= 4.0 suggested
 
 1. Clone this repository and cd into it.
-```
-git clone https://github.com/huBioinfo/CytoCommunity.git
-cd CytoCommunity
-```
+
+    ```bash
+    git clone https://github.com/huBioinfo/CytoCommunity.git
+    cd CytoCommunity
+    ```
 
 2. Create a new conda environment using the environment_linux.yml file and activate it:
 
