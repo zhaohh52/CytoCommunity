@@ -13,7 +13,7 @@
 
 ## Overview
 
-![overview](support/overview.png){:height="100px" width="400px"}
+![overview](support/overview.png =100×100)
 
 It remains poorly understood how different cell phenotypes organize and coordinate with each other to support tissue functions. To better understand the structure-function relationship of a tissue, the concept of tissue cellular neighborhoods (TCNs) has been proposed. Furthermore, given a set of tissue images associated with different conditions, it is often desirable to identify condition-specific TCNs with more biological and clinical relevance. However, there is a lack of computational tools for de novo identification of condition-specific TCNs by explicitly utilizing tissue image labels. 
 
