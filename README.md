@@ -40,15 +40,7 @@ R version: >= 4.0 suggested(Ensure that the diceR package can be imported correc
     conda env create -f environment_linux.yml
     conda activate CytoCommunity
     ```
-
-3. Install R and the diceR package:
-    
-    ```bash
-    conda install R
-    R
-    > install.packages("diceR")
-    ```
-    
+ 
 ## Usage
 
 The CytoCommunity algorithm for TCN indentification can be used in either an unsupervised or a supervised learning mode. It consists of two components: a soft TCN assignment learning module and a TCN ensemble module to determine the final robust TCNs.
