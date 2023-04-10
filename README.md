@@ -21,11 +21,11 @@ CytoCommunity is the first computational tool for end-to-end unsupervised and su
 
 Please ensure that the following softwares have been installed correctly：
 
-    Conda version: 22.9.0
+Conda version: 22.9.0
 
-    Python version: 3.10.6
+Python version: 3.10.6
 
-    R version: >= 4.0 suggested(Ensure that the diceR package can be imported correctly)
+R version: >= 4.0 suggested(Ensure that the diceR package can be imported correctly)
 
 1. Clone this repository and cd into it.
 
