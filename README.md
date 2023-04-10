@@ -16,7 +16,8 @@ We developed the CytoCommunity algorithm for identifying TCNs that can be applie
 
 CytoCommunity is the first computational tool for end-to-end unsupervised and supervised analyses of single-cell spatial maps and enables direct discovery of conditional-specific cell-cell communication patterns across variable spatial scales.
 <!-- ![overview](support/overview.png)  -->
-<div align=center><img src="https://github.com/huBioinfo/CytoCommunity/blob/main/support/overview.png" width="600" height="600" alt="pipline"/></div>
+<div align=center><img src="https://github.com/huBioinfo/CytoCommunity/blob/main/support/overview.png" width="600" height="600" alt="pipline"/></div>   
+
 ## Installation
 
 ### Hardware requirement 
